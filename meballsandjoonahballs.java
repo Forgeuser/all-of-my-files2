@@ -13,8 +13,8 @@ public class meballsandjoonahballs {
     }
         void eat() {
 
-            System.out.println(this.name+" is eating while ballin hes mario");
-            System.out.println(this.weight+" he is gaining weight well mario");
+            System.out.println(this.name+" is eating while ballin his mario");
+            System.out.println(this.weight+" he is gaining weight, well mario");
             System.out.println();
 
 
@@ -27,7 +27,7 @@ public class meballsandjoonahballs {
         void drink() {
 
             System.out.println(this.name+"is drinking coca cola");
-            System.out.println(this.age+" is god age to drink coca cola");
+            System.out.println(this.age+" is a good age to drink coca cola");
 
 
 
